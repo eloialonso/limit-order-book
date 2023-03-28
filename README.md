@@ -1,6 +1,4 @@
 # Limit order book
 
-Notebook to visualize a limit order book and understand Maslov model.
-
-Developed for the course *14X030: Introduction to computational finance* at University of Geneva.:w
+UI to visualize a limit order book. Implementation of Maslov model. Developed for the course *14X030: Introduction to computational finance* at University of Geneva.
 
